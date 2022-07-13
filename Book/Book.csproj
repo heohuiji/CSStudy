@@ -8,9 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Ch04\" />
+    <Compile Remove="Ch02\P112.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Ch05\" />
-    <Folder Include="Ch03\" />
     <Folder Include="Ch06\" />
     <Folder Include="Ch07\" />
     <Folder Include="Ch08\" />
