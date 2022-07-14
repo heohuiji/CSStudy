@@ -8,7 +8,7 @@ namespace Book.Ch04
 {
     internal class p158
     {
-        static void Main(string[] args)
+        static void Main158(string[] args)
         {
             int[] intArray = { 52, 273, 32, 65, 103 };
             long[] longArray = { 52, 273, 32, 65, 103 };
