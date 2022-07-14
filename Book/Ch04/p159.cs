@@ -8,7 +8,7 @@ namespace Book.Ch04
 {
     internal class p159
     {
-        static void Main(string[] args)
+        static void Main159(string[] args)
         {
             //배열을 생성합니다.
             int[] intArray = { 52, 273, 32, 65, 103 };
