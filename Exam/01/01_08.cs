@@ -9,7 +9,7 @@ namespace Exam._01
 {
     internal class _01_08
     {
-        static void Main(string[] args)
+        static void Main8(string[] args)
         {
             int n = 5;
 
@@ -18,14 +18,14 @@ namespace Exam._01
 
                 for (int j=1; j<5-i; j++)
                 {
-                    Console.Write("");
+                    Console.Write(" ");
                 }
 
                 for (int k = 1; k<=2*i + 1; k++)
                 {
                     Console.Write("*");
                 }
-                Console.WriteLine("");
+                Console.WriteLine();
             }
         }
     }

@@ -23,7 +23,7 @@ namespace Exam._01
                     Console.Write(" ");
                 }
 
-                for (int k =1; k <= 2; k++)
+                for (int k =1; k <= 2 * count -1; k++)
                 {
                     Console.Write("*");
                 }
